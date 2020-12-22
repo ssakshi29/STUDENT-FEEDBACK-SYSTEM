@@ -1,3 +1,3 @@
 # Online-Student-Feedback-System
-CSES303 - Database Management Systems Lab[CSE UIET SEM-5]
+CSES303 - Database Management System Lab[CSE UIET SEM-5]
 
